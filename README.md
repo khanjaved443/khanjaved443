@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Full stack web development...
 - 💞️ I’m looking to collaborate on Ecommerce Website...
 - 📫 How to reach me? 
-Phone📱=8948426729,7977647797
+Phone📱=8948426729,
+7977647797
+
 Email📧=jkhan.kj862@gmail.com
 
 <!---
